@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# little script to immediatly put to sleep a MacOS
+# little script to immediatly put to hibernate a MacOS
 
 _id=`id -u`
 _cn=`basename $0`
